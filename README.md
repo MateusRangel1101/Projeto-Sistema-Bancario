@@ -3,8 +3,6 @@
 Este projeto é uma API de banco digital que oferece funcionalidades essenciais para gerenciar contas, transações e informações dos clientes. A API foi desenvolvida utilizando tecnologias modernas e boas práticas de programação, visando proporcionar uma experiência eficiente e segura aos usuários.
   </p>
 
-[Acesse o projeto em produção](https://projetocss-jesscoder.netlify.app/)
-
 ## :man_mechanic: Linguagens e Ferramentas
 
 ![Skills](https://skillicons.dev/icons?i=nodejs,js,express,rest)
@@ -59,3 +57,6 @@ npm run dev
 - POST /transacoes/transferir - Transfere um valor de uma conta para outra
 - GET /contas/saldo - Mostra o saldo de uma conta
 - GET /contas/extrato - Mostra o extrato de uma conta
+
+
+![image](https://github.com/MateusRangel1101/Projeto-Sistema-Bancario/assets/142257269/f0be2de8-8634-4763-8611-f75c8e8c2b39)
